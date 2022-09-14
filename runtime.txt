@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 python-3.8.10
+=======
+Python 3.8.2
+>>>>>>> cbc71d4f8c7ca4dac5c98016ebfa2b93852b1376
